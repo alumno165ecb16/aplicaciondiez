@@ -11,9 +11,9 @@
    Utilizar Plugings de audio con un piano y las notas musicales
    </description>
    
-   <preference name"phonegap-version" value="3.1.0" />
+   <preference name="phonegap-version" value="3.1.0" />
 <!-- forzar la orientacion a horizontal -->   
-   <preference  name"orientacion" value="landscape" />
+   <preference  name="orientacion" value="landscape" />
    
    <author href="https://build.phonegap.com" email="support@phonegap.com">
    Andrea Mendez Lozano
